@@ -2,7 +2,7 @@
     <img alt="Happy" src="https://i1.lensdump.com/i/0TULpF.png" />
 </p>
 
-<p align="left">
+<p align="center">
     <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/reactjs-happyweb">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/reactjs-happyweb">
