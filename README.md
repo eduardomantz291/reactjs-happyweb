@@ -14,6 +14,8 @@
   <a href="https://www.typescriptlang.org/">
     <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/typescript">
   </a>
+
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/reactjs-happyweb">
 </p>
 
 <div align="center">
