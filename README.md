@@ -3,21 +3,25 @@
 </p>
 
 <p align="left">
-    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
+    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/
+reactjs-happyweb">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/
+reactjs-happyweb">
 
   <a href="https://reactjs.org/">
-    <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-rocketseat-next-level-week-happy/react">
+    <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/react">
   </a>
 
   <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-rocketseat-next-level-week-happy/typescript">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/typescript">
   </a>
 
-  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/reactjs-rocketseat-next-level-week-happy.svg">
+  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/
+  reactjs-happyweb.svg">
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/
+  reactjs-happyweb">
 </p>
 
 <div align="center">
@@ -59,9 +63,3 @@ yarn start
 This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/reactjs-rocketseat-next-level-week-happy/blob/master/LICENSE) for more information.
 
 ## :man_astronaut: Author
-
-**Guilherme Bezerra** ©️
-
-[![github](http://ap.imagensbrasil.org/images/2018/12/10/github-logo-1.png) ](http://www.github.com/gbdsantos)
-[![gitlab](http://ap.imagensbrasil.org/images/2018/12/10/gitlab-32.png)](https://gitlab.com/gbdsantos1)
-[![linkedin](http://ap.imagensbrasil.org/images/2018/12/10/linkedin-1.png)](https://www.linkedin.com/in/gbdsantos/)
