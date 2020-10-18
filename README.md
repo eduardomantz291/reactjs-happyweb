@@ -4,10 +4,10 @@
 
 <p align="left">
     <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/
-reactjs-happyweb">
+    reactjs-happyweb">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/
-reactjs-happyweb">
+    reactjs-happyweb">
 
   <a href="https://reactjs.org/">
     <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/react">
@@ -55,11 +55,3 @@ yarn start
 - [Leaflet](https://leafletjs.com/)
 - [React Leaflet](https://react-leaflet.js.org/)
 - [MapBox](https://www.mapbox.com/)
-
-## Tools
-
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/reactjs-rocketseat-next-level-week-happy/blob/master/LICENSE) for more information.
-
-## :man_astronaut: Author
