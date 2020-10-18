@@ -3,26 +3,26 @@
 </p>
 
 <p align="left">
-    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
+    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/reactjs-happyweb">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/reactjs-happyweb">
 
   <a href="https://reactjs.org/">
-    <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-rocketseat-next-level-week-happy/react">
+    <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/react">
   </a>
 
   <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-rocketseat-next-level-week-happy/typescript">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/typescript">
   </a>
 
-  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/reactjs-rocketseat-next-level-week-happy.svg">
+  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/reactjs-happyweb.svg">
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/reactjs-happyweb">
 </p>
 
 <div align="center">
   <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/eduardomantz291/reactjs-rocketseat-next-level-week-happy/blob/master/README-PT-BR.md">🇧🇷
+  <a href="https://github.com/eduardomantz291/reactjs-happyweb/blob/master/README-PT-BR.md">🇧🇷
   </a>
 </div>
 
