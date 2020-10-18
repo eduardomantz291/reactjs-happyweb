@@ -3,25 +3,21 @@
 </p>
 
 <p align="left">
-    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/
-    reactjs-happyweb">
+    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/
-    reactjs-happyweb">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
 
   <a href="https://reactjs.org/">
-    <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/react">
+    <img alt="ReactJS version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-rocketseat-next-level-week-happy/react">
   </a>
 
   <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-happyweb/typescript">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/reactjs-rocketseat-next-level-week-happy/typescript">
   </a>
 
-  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/
-  reactjs-happyweb.svg">
+  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/reactjs-rocketseat-next-level-week-happy.svg">
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/
-  reactjs-happyweb">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/reactjs-rocketseat-next-level-week-happy">
 </p>
 
 <div align="center">
