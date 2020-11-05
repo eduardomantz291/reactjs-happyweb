@@ -18,11 +18,9 @@
   <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/reactjs-happyweb">
 </p>
 
-<div align="center">
-  <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/eduardomantz291/reactjs-happyweb/blob/master/README-PT-BR.md">🇧🇷
-  </a>
-</div>
+<p align="center">
+  <img alt="Happy" src=".github/happy.png" width="100%">
+</p>
 
 ## :bulb: About Project
 
